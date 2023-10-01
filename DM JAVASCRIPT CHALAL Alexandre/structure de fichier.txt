@@ -1,0 +1,18 @@
+structure de fichier : 
+
+
+project-directory/
+│
+├── stores/                       -Dossier contenant les fichiers JSON de ventes
+│   ├── store1.json
+│   ├── store2.json
+│   ├── ...
+│   └── region1/                  -Sous-dossier pour une région spécifique
+│       ├── store3.json
+│       ├── store4.json
+│       └── ...
+│
+├── salesTotals/                   -Dossier où le fichier avec le total des ventes sera créé
+│   └── totals.txt                 -Fichier contenant le total des ventes
+│
+└── app.js                         -Script principal

@@ -1,0 +1,9 @@
+DM JAVASCRIPT
+
+
+explication du code : 
+
+Le code effectue plusieurs type d'opérations, des opérations de lecture et d'écriture de fichiers JSON. il va calculer la somme total des ventes à partir des fichiers lus et il va enregistrer cela dans un fichier texte. il peut parcourir des dossiers pour trovuer des fichiers de ventes, mais si les dossiers en sortie sont déja present (donc si ils existent), il ne va pas les récrés. 
+
+
+
